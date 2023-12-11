@@ -25,13 +25,13 @@
 
 A project for a bike-share company analyzing and visualizing 5 million points of data using R and Tableau to create a new marketing strategy aimed to convert casual customers to annual members. 
 
-// jpeg here
+##IMAGE HERE
 
 ### Games of the Years
 
 Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have really improved over the past couple of decades. 
 
-// jpeg here
+##IMAGE HERE
 
 ### Customer Churn Analysis PowerBI Dashboard
 
@@ -43,7 +43,7 @@ Dataset from 13,000 different games analyzed using SQL to find what year had the
 
 
 
-//jpeg here
+##IMAGE HERE
 
 
 ### project TBD

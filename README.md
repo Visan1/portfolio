@@ -31,7 +31,7 @@ A project for a bike-share company analyzing and visualizing 5 million points of
 
 Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have really improved over the past couple of decades. 
 
-//jpeg here
+// jpeg here
 
 ### Customer Churn Analysis PowerBI Dashboard
 

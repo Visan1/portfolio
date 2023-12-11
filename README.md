@@ -3,16 +3,16 @@
 #### Technical Skills: SQL, Tableau, Excel, PowerBI, R, JavaScript, HTML, CSS
 
 ## Work Experience
-**Data Analyst at Telus International AI (_July 2023 - Present_)
+**Data Analyst at Telus International AI (_July 2023 - Present_)**
 - Analyzed and validated data for accuracy and relevancy for search engines used by millions of users internationally
 - Carried out research and evaluation tasks to improve search engine content and quality
 - Completed quality reviews to improve AI and machine learning models
 
-**Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)
+**Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on multiple E-commerce shops to analyze consumer trends
 - Utilized data with SEO strategies to create promotional content to drive web traffic up by 30%
 
-**Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)
+**Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Utilized data analysis to reduce quality assurance tasks from 1.5 hours to 20 minutes resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly
 - Promoted to Team Lead technician within one year, supervised 6 machine production lines daily, trained employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports and update specifications for products

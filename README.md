@@ -37,7 +37,7 @@ Dataset from 13,000 different games analyzed using SQL to find what year had the
 
 
 
-//jpeg here
+![Customer Churn Dashboard](assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 
 ### Optimizing Sports Retail Revenue SQL
 

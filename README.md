@@ -29,11 +29,13 @@ A project for a bike-share company analyzing and visualizing 5 million points of
 
 ### Games of the Years
 
-Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have really improved over the past couple of decades. 
+Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 
 ##IMAGE HERE
 
 ### Customer Churn Analysis PowerBI Dashboard
+
+Analysis of a dataset from a Telecom company to determine the reasons for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 

@@ -23,7 +23,7 @@
 ## Projects
 ### Converting Casual Members to Annual Members with Data
 
-A project for a bike-share company analyzing and visualizing 5 million points of data using R and Tableau to create a new marketing strategy aimed to convert casual customers to annual members. 
+Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert 5-10% of casual riders into annual members.
 
 ##IMAGE HERE
 

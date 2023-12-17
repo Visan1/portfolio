@@ -25,7 +25,7 @@
 
 Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert 5-10% of casual riders into annual members.
 
-##IMAGE HERE
+![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
 
 ### Games of the Years
 

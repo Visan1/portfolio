@@ -27,12 +27,6 @@ Analyzed and visualized over 4.5 million points of data using R and Tableau from
 
 ![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
 
-### Games of the Years
-
-Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
-
-##IMAGE HERE
-
 ### Customer Churn Analysis PowerBI Dashboard
 
 Analysis of a dataset from a Telecom company to determine the reasons for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
@@ -43,7 +37,13 @@ Analysis of a dataset from a Telecom company to determine the reasons for custom
 
 ### Optimizing Sports Retail Revenue SQL
 
+Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and provide a recommendation for marketing and sales teams.
 
+##IMAGE HERE
+
+### Games of the Years
+
+Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 
 ##IMAGE HERE
 
@@ -54,7 +54,6 @@ Analysis of a dataset from a Telecom company to determine the reasons for custom
 - Bachelor of Science, Food Science and Technology Specialization | University of Alberta (_September 2015 - May 2019_)
 - Datacamp Data Analyst SQL Associate Certificate | (_August 2023_)
 - Google Data Analytics Certificate (_September 2022_)
-- 
 
 
 

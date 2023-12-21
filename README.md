@@ -21,7 +21,7 @@
 
 
 ## Projects
-### Converting Casual Members to Annual Members with Data
+### Converting Casual Members to Annual Members with Data (R, Tableau)
 
 Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert 5-10% of casual riders into annual members.
 
@@ -35,20 +35,20 @@ Analysis of a dataset from a Telecom company to determine the reasons for custom
 
 ##IMAGE HERE
 
-### Optimizing Sports Retail Revenue SQL
+### Optimizing Sports Retail Revenue (SQL)
 
 Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and provide a recommendation for marketing and sales teams.
 
 ##IMAGE HERE
 
-### Games of the Years
+### Games of the Years (SQL)
 
 Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 
 ##IMAGE HERE
 
 
-### project TBD
+### Analyzing Student Mental Health (SQL)
 
 ## Education
 - Bachelor of Science, Food Science and Technology Specialization | University of Alberta (_September 2015 - May 2019_)

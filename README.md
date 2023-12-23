@@ -10,7 +10,7 @@
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on multiple E-commerce shops to analyze consumer trends
-- Utilized data with SEO strategies to create promotional content to drive web traffic up by 30%
+- Utilized data combined with SEO strategies to create promotional content to increase web traffic 
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Utilized data analysis to reduce quality assurance tasks from 1.5 hours to 20 minutes resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly
@@ -33,7 +33,6 @@ Analysis of a dataset from a Telecom company to determine the reasons for custom
 
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 
-##IMAGE HERE
 
 ### Optimizing Sports Retail Revenue (SQL)
 
@@ -47,8 +46,9 @@ Dataset from 13,000 different games analyzed using SQL to find what year had the
 
 ##IMAGE HERE
 
-
 ### Analyzing Student Mental Health (SQL)
+
+
 
 ## Education
 - Bachelor of Science, Food Science and Technology Specialization | University of Alberta (_September 2015 - May 2019_)

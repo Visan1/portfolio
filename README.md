@@ -10,7 +10,12 @@
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on multiple E-commerce shops to analyze consumer trends
-- Utilized data combined with SEO strategies to create promotional content to increase web traffic 
+- Utilized data combined with SEO strategies to create promotional content to increase web traffic
+
+**Software Developer at 100Devs (_January 2022 — December 2022_)**
+-	Collaborated with a team of developers to build modern and responsive web applications using best practices.
+- Built semantically structured full stack web applications.
+-	Applied agile methodologies like SCRUM for project management.
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Utilized data analysis to reduce quality assurance tasks from 1.5 hours to 20 minutes resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly

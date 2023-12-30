@@ -32,9 +32,9 @@ Analyzed and visualized over 4.5 million points of data using R and Tableau from
 
 ![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
 
-### Customer Churn Analysis PowerBI Dashboard
+### Customer Churn Analysis Dashboard (Excel, PowerBI
 
-Analysis of a dataset from a Telecom company to determine the reasons for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
+Analysis of an Excel dataset from a Telecom company visualized in PowerBI to determine the reasons for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 
@@ -43,15 +43,9 @@ Analysis of a dataset from a Telecom company to determine the reasons for custom
 
 Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and provide a recommendation for marketing and sales teams.
 
-##IMAGE HERE
-
 ### Games of the Years (SQL)
 
 Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
-
-##IMAGE HERE
-
-### Analyzing Student Mental Health (SQL)
 
 
 

@@ -25,7 +25,7 @@
 - Worked with the R&D and Sales department on new product trials to market
 
 
-## Projects
+## Data Analytics Projects
 ### Converting Casual Members to Annual Members with Data (R, Tableau)
 
 Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert 5-10% of casual riders into annual members.

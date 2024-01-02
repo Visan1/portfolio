@@ -18,7 +18,7 @@
 -	Applied agile methodologies like SCRUM for project management.
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
-- Utilized data analysis to reduce quality assurance tasks from 1.5 hours to 20 minutes resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly
+- Reduced quality assurance tasks from 1.5 hours to 20 minutes through data driven decision making resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly
 - Promoted to Team Lead technician within one year, supervised 6 machine production lines daily, trained employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports and update specifications for products
 - Verification of analytical results to approve production of $1 million in-process and finished products monthly

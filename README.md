@@ -41,14 +41,17 @@ Analysis of an Excel dataset from a Telecom company visualized in PowerBI to det
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 
 
-### Optimizing Sports Retail Revenue (SQL)
+### Optimizing Sports Retail Revenue (SQL, PowerBI)
 
 Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and provide a recommendation for marketing and sales teams.
+
+IMAGE
 
 ### Games of the Years (SQL)
 
 Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 
+IMAGE
 
 
 ## Education

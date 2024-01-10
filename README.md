@@ -13,9 +13,9 @@
 - Utilized data combined with SEO strategies to create promotional content to increase web traffic
 
 **Software Developer at 100Devs (_January 2022 — December 2022_)**
--	Collaborated with a team of developers to build modern and responsive web applications using best practices.
-- Built semantically structured full stack web applications.
--	Applied agile methodologies like SCRUM for project management.
+-	Collaborated with a team of developers to build modern and responsive web applications using best practices
+- Built semantically structured full stack web applications utilizing MERN stack
+-	Applied agile methodologies like SCRUM for project management
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Reduced quality assurance tasks from 1.5 hours to 20 minutes through data driven decision making resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly

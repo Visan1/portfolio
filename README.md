@@ -47,7 +47,7 @@ Dived into the database of an E-commerce sports clothing company and looking at 
 
 IMAGE
 
-### Games of the Years (SQL)
+### Games of the Years (SQL, PowerBI)
 
 Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 

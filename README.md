@@ -11,8 +11,9 @@
   
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
-- Conducted market research on multiple E-commerce shops to analyze consumer trends
+- Conducted market research on E-commerce shops ranging from apparel, home decor, appliances and more to analyze consumer trends
 - Utilized data combined with SEO strategies to create promotional content to increase web traffic
+- Crafted creative
   
 
 **Software Developer at 100Devs (_January 2022 — December 2022_)**
@@ -23,10 +24,10 @@
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Reduced quality assurance tasks from 1.5 hours to 20 minutes through data driven decision making resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly
-- Promoted to Team Lead technician within one year, supervised 6 machine production lines daily, trained employees on new safety protocols and policies
+- Became Team Lead technician within one year, supervised 6 machine production lines daily, trained employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports and update specifications for products
-- Verification of analytical results to approve production of $1 million in-process and finished products monthly
-- Worked with the R&D and Sales department on new product trials to market
+- Verification of analytical results to approve production of $1 million in-process and finished products per month
+- Worked with the R&D and Sales department on new product trials before sending to market
   
 
 
@@ -48,7 +49,7 @@ Analysis of an Excel dataset from a Telecom company visualized in PowerBI to det
 
 ### Optimizing Sports Retail Revenue (SQL, PowerBI)
 
-Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and provide a recommendation for marketing and sales teams.
+Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and to provide a recommendation for marketing and sales teams.
 
 IMAGE
 

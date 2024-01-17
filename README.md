@@ -13,7 +13,7 @@
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops ranging from apparel, home decor, appliances and more to analyze consumer trends
 - Utilized data combined with SEO strategies to create promotional content to increase web traffic
-- Crafted creative
+- Crafted creative and accurate summaries on promotional content for customer satisfaction
   
 
 **Software Developer at 100Devs (_January 2022 — December 2022_)**

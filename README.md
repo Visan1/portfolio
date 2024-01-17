@@ -17,7 +17,7 @@
   
 
 **Software Developer at 100Devs (_January 2022 — December 2022_)**
--	Collaborated with a team of developers to build modern and responsive web applications using best practices
+-	Collaborated with a team of developers to build modern and responsive web applications utilizing MERN stack
 - Built semantically structured full stack web applications utilizing MERN stack
 -	Applied agile methodologies like SCRUM for project management
   

@@ -19,7 +19,7 @@
 **Software Developer at 100Devs (_January 2022 — December 2022_)**
 -	Collaborated with a team of developers to build modern and responsive web applications utilizing MERN stack
 - Built semantically structured full stack web applications utilizing MERN stack
--	Applied agile methodologies like SCRUM for project management
+-	Applied agile methodologies such as SCRUM for project management
   
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**

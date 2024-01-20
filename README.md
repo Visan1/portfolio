@@ -49,7 +49,7 @@ Analysis of an Excel dataset from a Telecom company visualized in PowerBI to det
 
 ### Optimizing Sports Retail Revenue (SQL, PowerBI)
 
-Dived into the database of an E-commerce sports clothing company and looking at the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate data and to provide a recommendation for marketing and sales teams.
+Analyzed the database of a sports clothing company and viewed the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate and clean data to provide a recommendation for marketing and sales teams to increase sales. 
 
 IMAGE
 

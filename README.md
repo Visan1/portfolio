@@ -66,6 +66,9 @@ IMAGE
 - Google Data Analytics Certificate (_September 2022_)
 
 
+##Other Skills
+
+
 
 
 

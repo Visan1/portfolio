@@ -67,6 +67,9 @@ IMAGE
 
 
 ## Other Skills
+-
+-
+-
 
 
 

@@ -16,7 +16,7 @@
 - Crafted creative and accurate summaries on promotional content for customer satisfaction
   
 
-**Software Developer at 100Devs (_January 2022 — December 2022_)**
+**Software Developer at 100Devs (_January 2022 — June 2023_)**
 -	Collaborated with a team of developers to build modern and responsive web applications utilizing MERN stack
 - Built semantically structured full stack web applications utilizing MERN stack
 -	Applied agile methodologies such as SCRUM for project management
@@ -66,10 +66,7 @@ IMAGE
 - Google Data Analytics Certificate (_September 2022_)
 
 
-## Other Skills
--
--
--
+## Other Skills: Quality Assurance, Microsoft Office,
 
 
 

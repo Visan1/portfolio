@@ -66,7 +66,7 @@ IMAGE
 - Google Data Analytics Certificate (_September 2022_)
 
 
-## Other Skills: Quality Assurance, Microsoft Office, Data Validation, Data Verification,
+## Other Skills: Quality Assurance, Microsoft Office, Data Validation, Data Verification, Marketing Analysis, Research
 
 
 

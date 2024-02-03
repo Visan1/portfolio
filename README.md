@@ -7,7 +7,7 @@
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
 - Analyzed and validated data for accuracy and relevancy to improve search engines such as Google and Bing used by millions of users internationally
 - Carried out research and evaluation tasks to improve search engine content and quality
-- Completed quality reviews to improve AI and machine learning models
+- Completed quality reviews on image results, map results, fact checks and more to set guidelines to improve AI and machine learning models for user satisfaction
   
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**

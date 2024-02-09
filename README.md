@@ -34,7 +34,7 @@
 ## Data Analytics Projects
 ### Converting Casual Members to Annual Members with Data (R, Tableau)
 
-Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert 5-10% of casual riders into annual members.
+Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert over 10% of casual riders into annual members.
 
 ![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
 
@@ -42,7 +42,7 @@ The full visualization and presentation was done on Tableau and can be viewed [h
 
 ### Customer Churn Analysis Dashboard (Excel, PowerBI)
 
-Analysis of an Excel dataset from a Telecom company visualized in PowerBI to determine the reasons for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
+Analysis of an Excel dataset from a Telecom company visualized in PowerBI to determine the highest impact for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 

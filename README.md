@@ -51,13 +51,13 @@ Analysis of an Excel dataset from a Telecom company visualized in PowerBI to det
 
 Analyzed the database of a sports clothing company and viewed the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate and clean data to provide a recommendation for marketing and sales teams to increase sales. 
 
-IMAGE
+IMAGES
 
 ### Games of the Years (SQL, PowerBI)
 
-Dataset from 13,000 different games analyzed using SQL to find what year had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
+Dataset from 13,000 different games analyzed using SQL to find out what year of gaming had the best critic and user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 
-IMAGE
+IMAGES
 
 
 ## Education

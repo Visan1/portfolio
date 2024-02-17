@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Tableau, Excel, PowerBI, R, JavaScript, Python
+#### Technical Skills: SQL, PowerBI, Excel, Tableau, R, JavaScript, Python
 
 
 ## Work Experience
@@ -12,12 +12,13 @@
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops ranging from apparel, home decor, appliances to determine the most popular clothing, bundles, and appliances according to consumer trends
-- Utilized data of most popular items per business combined with SEO strategies to create promotional content to increase web traffic
+- Utilized data of most popular items per business combined with SEO strategies to create promotional content to increase web traffic up to 15%
 - Crafted creative and accurate summaries on promotional content for customer satisfaction
   
 
 **Software Developer at 100Devs (_January 2022 — June 2023_)**
--	Collaborated with a team of developers to build modern and responsive web applications utilizing MERN stack
+- Created simple home pages for local and medium sized businesses utilizing HTML and CSS
+-	Collaborated with a team of developers to build modern and responsive web applications and contribute to open source projects
 - Built semantically structured full stack web applications utilizing MERN stack
 -	Applied agile methodologies such as SCRUM for project management
   

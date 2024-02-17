@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Tableau, Excel, PowerBI, R, JavaScript, HTML, CSS
+#### Technical Skills: SQL, Tableau, Excel, PowerBI, R, JavaScript, Python
 
 
 ## Work Experience
@@ -32,7 +32,7 @@
 
 
 ## Data Analytics Projects
-### Converting Casual Members to Annual Members with Data (R, Tableau)
+### Converting Casual Bike-Share Members to Annual Bike-Share Members (R, Tableau)
 
 Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert over 10% of casual riders into annual members.
 
@@ -47,7 +47,7 @@ Analysis of an Excel dataset from a Telecom company visualized in PowerBI to det
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 
 
-### Optimizing Sports Retail Revenue (SQL, PowerBI)
+### Optimizing Sports Apparel Revenue (SQL, PowerBI)
 
 Analyzed the database of a sports clothing company and viewed the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate and clean data to provide a recommendation for marketing and sales teams to increase sales. 
 
@@ -61,11 +61,11 @@ IMAGES
 
 
 ## Education
-- Bachelor of Science, Food Science and Technology Specialization | University of Alberta (September 2015 - May 2019)
-- Datacamp Data Analyst SQL Associate Certificate | (August 2023)
+- Bachelor of Science, Food Science and Technology Specialization University of Alberta (September 2015 - May 2019)
+- Datacamp Data Analyst SQL Associate Certificate (August 2023)
 - Google Data Analytics Certificate (September 2022)
 
-## Other Skills: Quality Assurance, Microsoft Office, Data Validation, Data Verification, Marketing Analysis, Research, Python, Project Management
+## Other Skills: Quality Assurance, Microsoft Office, Data Validation, Data Verification, Marketing Analysis, Research, Project Management
 
 
 

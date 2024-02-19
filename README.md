@@ -35,7 +35,7 @@
 ## Data Analytics Projects
 ### Converting Casual Bike-Share Members to Annual Bike-Share Members (R, Tableau)
 
-Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign to convert over 10% of casual riders into annual members.
+Analyzed and visualized over 4.5 million points of data using R and Tableau from a bike-share company database that led to a summer trial marketing campaign aimed to convert over 10% of casual riders into annual members.
 
 ![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
 

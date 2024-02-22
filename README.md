@@ -25,10 +25,10 @@
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Reduced quality assurance tasks from 1.5 hours to 20 minutes through data driven decision making resulting in an improvement in efficiency by over 75%, saving $10,000 in costs weekly
-- Became Team Lead technician within one year, supervised 6 machine production lines daily, trained employees on new safety protocols and policies
+- Became Team Lead technician within one year, supervised 6 machine production lines daily, trained over 50 employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports and update specifications for products
-- Verification of analytical results to approve production of $1 million in-process and finished products per month
-- Worked with the R&D and Sales department on new product trials and formulations before approval for production
+- Verified analytical results to approve production of $1 million in-process and finished products per month
+- Worked with R&D and Sales department on new product trials and formulations before approval for production
   
 
 

@@ -62,7 +62,7 @@ IMAGES
 
 
 ## Education
-- Bachelor of Science, Food Science and Technology Specialization University of Alberta (September 2015 - May 2019)
+- Bachelor of Science, Food Science and Technology Specialization at University of Alberta (September 2015 - May 2019)
 - Datacamp Data Analyst SQL Associate Certificate (August 2023)
 - Google Data Analytics Certificate (September 2022)
 

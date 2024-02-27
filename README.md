@@ -28,7 +28,7 @@
 - Became Team Lead technician within one year, supervised 6 machine production lines daily, trained over 50 employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports and update specifications for products
 - Verified analytical results to approve production of $1 million in-process and finished products per month
-- Worked with R&D and Sales department on new product trials and formulations before approval for production
+- Worked with R&D and Sales department on trialing new product formulations to approve for final production
   
 
 

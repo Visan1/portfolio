@@ -43,7 +43,7 @@ The full visualization and presentation was done on Tableau and can be viewed [h
 
 ### Customer Churn Analysis Dashboard (Excel, PowerBI)
 
-Analysis of an Excel dataset from a Telecom company visualized in PowerBI to determine the highest impact for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
+Analyzed Excel dataset from a Telecom company visualized in PowerBI to determine the highest impact for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 
 ![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
 

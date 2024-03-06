@@ -4,13 +4,13 @@
 
 
 ## Work Experience
-**Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
+**Data Analyst at Telus International AI (_July 2023 - Present_)**
 - Analyzed and validated data for accuracy to improve search engines such as Google and Bing used by millions of users internationally
 - Carried out research and evaluation tasks on search engine results content quality, providing more relevant results for user queries
 - Completed quality reviews on image results, map results, fact checks and more to set guidelines to improve AI and machine learning models for user satisfaction
   
 
-**Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
+**Marketing Analyst & Data Entry at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops ranging from apparel, home decor, appliances to determine the most popular items in revenue according to consumer trends
 - Utilized data of most popular items per business combined with SEO strategies to create promotional content to increase web traffic up to 30%
 - Crafted creative and accurate summaries on promotional content for customer satisfaction

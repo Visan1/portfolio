@@ -17,7 +17,7 @@
   
 
 **Software Developer at 100Devs (_January 2022 — June 2023_)**
-- Created simple home pages for local and medium sized businesses utilizing HTML and CSS
+- Created simple home pages for local and medium sized businesses utilizing HTML, CSS, JavaScript
 -	Collaborated with a team of developers to build modern and responsive web applications and contribute to open source projects
 - Built semantically structured full stack web applications utilizing MERN stack
 -	Applied agile methodologies such as SCRUM for project management

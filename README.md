@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, PowerBI, Excel, Tableau, R, JavaScript, Python
 
 
-## Work Experience
+## Relevant Work Experience
 **Data Analyst at Telus International AI (_July 2023 - Present_)**
 - Analyzed and validated data for accuracy to improve search engines such as Google and Bing used by millions of users internationally
 - Carried out research and evaluation tasks on search engine results content quality, providing more relevant results for user queries

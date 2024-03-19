@@ -12,7 +12,7 @@
 
 **Marketing Analyst & Data Entry at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops ranging from apparel, home decor, appliances to determine the most popular items in revenue according to consumer trends
-- Utilized data of most popular items per business combined with SEO strategies to create promotional content to increase web traffic up to 30%
+- Utilized data from most popular items per business and combined with SEO strategies to create promotional content to increase web traffic up to 30%
 - Crafted creative and accurate summaries on promotional content for customer satisfaction
   
 

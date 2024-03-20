@@ -66,7 +66,7 @@ IMAGES
 - Datacamp Data Analyst SQL Associate Certificate (August 2023)
 - Google Data Analytics Certificate (September 2022)
 
-## Other Skills: Quality Assurance, Microsoft Office, Data Validation, Data Verification, Marketing Analysis, Research, Project Management
+## Other Skills: Quality Assurance, Microsoft Office, Data Validation, Data Verification, Marketing Analysis, Research, Project Management, Microsoft Word
 
 
 

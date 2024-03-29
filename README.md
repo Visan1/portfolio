@@ -5,8 +5,8 @@
 
 ## Relevant Work Experience
 **Data Analyst at Telus International AI (_July 2023 - Present_)**
--Conducted data analysis and quality validation for major search engines, enhancing user experience and search engine performance for millions of global users.
--Executed research initiatives and quality assessments to optimize AI and machine learning models, ensuring heightened user satisfaction and improved functionality.
+- Conducted data analysis and quality validation for major search engines, enhancing user experience and search engine performance for millions of global users.
+- Executed research initiatives and quality assessments to optimize AI and machine learning models, ensuring heightened user satisfaction and improved functionality.
   
 
 **Marketing Analyst & Data Entry at Upfeat Media (_June 2023 - Present_)**

@@ -5,15 +5,14 @@
 
 ## Relevant Work Experience
 **Data Analyst at Telus International AI (_July 2023 - Present_)**
-- Analyzed and validated data for accuracy to improve search engines such as Google and Bing used by millions of users internationally
-- Carried out research and evaluation tasks on search engine results content quality to provide more relevant results for user queries
-- Completed quality reviews on image results, map results, fact checks and more to set guidelines to improve AI and machine learning models for user satisfaction
+-Conducted data analysis and quality validation for major search engines, enhancing user experience and search engine performance for millions of global users.
+-Executed research initiatives and quality assessments to optimize AI and machine learning models, ensuring heightened user satisfaction and improved functionality.
   
 
 **Marketing Analyst & Data Entry at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops including UberEats, Reebok, Best Buy and more to determine the most popular items in revenue according to consumer trends
-- Utilized data from most popular items per business and combined with SEO strategies to create promotional content to increase web traffic up to 30%
-- Crafted creative and accurate summaries on promotional content for customer satisfaction
+- Crafted creative and accurate promotional content using data from most popular items per business combined with SEO strategies to increase web traffic up to 30%
+
   
 
 **Software Developer at 100Devs (_January 2022 — June 2023_)**

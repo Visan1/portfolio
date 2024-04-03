@@ -11,7 +11,7 @@
 
 **Marketing Analyst & Data Entry at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops including UberEats, Reebok, Best Buy and more to determine the most popular items in revenue according to consumer trends
-- Crafted creative and accurate promotional content using data from most popular items per business combined with SEO strategies to increase web traffic up to 30%
+- Crafted creative and accurate promotional content using data from most popular items from each business combined with SEO strategies to increase web traffic up to 30%
 
   
 

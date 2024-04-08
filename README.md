@@ -42,7 +42,7 @@ Analyzed and visualized over 4.5 million points of data from a bike-share compan
 The full visualization and presentation was done on Tableau and can be viewed [here.](https://public.tableau.com/app/profile/visan2980/viz/DataAnalyticsProjectDashboard/Story1#1)
 
 ### Customer Churn Analysis Dashboard (Excel, PowerBI)
-#### Question to Answer:
+#### Question to Answer: What are the main factors that customers cite as the reasons they leave the business?
 
 Analyzed an Excel dataset from a Telecom company and visualized in PowerBI to determine the main factors for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 

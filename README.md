@@ -23,7 +23,7 @@
   
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
-- Reduced tasks from 1.5 hours to 20 minutes through data driven decision making, resulting in an improvement in efficiency by over 75% and saving over $10,000 in weekly costs
+- Reduced tasks from 1.5 hours to 20 minutes through data driven decision making, resulting in an improvement in efficiency over 75% and saving over $10,000 in weekly costs
 - Advanced to Team Lead technician within one year, supervised 6 machine production lines daily and trained over 50 new and existing employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports for internal teams and update specifications for products
 - Verified analytical results to approve production of $1 million in-process and finished products per month

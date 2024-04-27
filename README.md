@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SQL, PowerBI, Excel, Tableau, R, JavaScript, Python
+#### Technical Skills: SQL, PowerBI, Excel, Tableau, Python, JavaScript, R
 
 
 ## Work Experience

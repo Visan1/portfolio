@@ -54,7 +54,7 @@ Analyzed an Excel dataset from a Telecom company and visualized in PowerBI to de
 
 Analyzed the database of a sports clothing company and viewed the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate and clean data. The data was then analyzed to provide recommendations for marketing and sales teams to increase sales. 
 
-IMAGES
+![Sports Apparel Revenue Dashboard](/assets/SportsApparelRevenue.PNG)
 
 ### Games of the Years (SQL, PowerBI)
 

@@ -50,7 +50,7 @@ Analyzed an Excel dataset from a Telecom company and visualized in PowerBI to de
 
 
 ### Optimizing Sports Apparel Revenue (SQL, PowerBI)
-#### Question to Answer: What insights can we draw from Nike and Adidas products data to analyze and determine effective marketing strategies to increase sales performance for the company?
+#### Question to Answer: What insights can we draw from Nike and Adidas products data to analyze and determine effective marketing strategies that will lead to an increase in sales for the company?
 
 Analyzed the database of a sports clothing company and viewed the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate and clean data. The data was then analyzed to provide recommendations for marketing and sales teams to increase sales. 
 

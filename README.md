@@ -4,7 +4,7 @@
 
 
 ## Work Experience
-**Data Analyst Contractor at Telus International (_July 2023 - Present_)**
+**Data Analyst Freelancer at Telus International (_July 2023 - Present_)**
 - Conducted data analysis and quality validation for major search engines (Bing, Google), enhancing user experience and search engine performance for millions of global users
 - Executed research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
   
@@ -15,7 +15,7 @@
 
   
 
-**Software Developer at 100Devs (_January 2022 — June 2023_)**
+**Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**
 - Created simple home and landing pages for local small and medium sized businesses utilizing HTML, CSS, JavaScript
 -	Collaborated with a team of developers to build modern and responsive web applications as well as contributing to open source projects
 - Built semantically structured full stack web applications using MongoDB, Express, React and Node.js

@@ -34,7 +34,7 @@
 ### Converting Casual Bike-Share Members to Annual Bike-Share Members (R, Tableau)
 #### Question to Answer: What can we learn about how our users utilize our product, and how can we use this data to convert more casual riders into annual members?
 
-Analyzed and visualized over 4.5 million points of data from a bike-share company database using R and Tableau, leading to a summer marketing campaign aimed to convert at least 10% of current casual riders into annual members.
+Analyzed and visualized over 4.5 million points of data from Cyclistic, a bike-share company database using R and Tableau which led to a summer marketing campaign aimed to convert at least 10% of current casual riders into annual members.
 
 ![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
 

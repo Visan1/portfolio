@@ -4,6 +4,8 @@
 
 
 ## **Work Experience**
+
+
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
 - Conducted data analysis and quality validation of diverse data for major search engines (Bing, Google), enhancing user experience and search engine performance for millions of global users
 - Executed research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
@@ -31,7 +33,7 @@
 
 
 ## **Data Analytics Projects**
-### Converting Casual Bike-Share Members to Annual Bike-Share Members (R, Tableau)
+### Converting Casual Bike-Share Riders to Annual Bike-Share Members (R, Tableau)
 #### Question to Answer: What can we learn about how our users utilize our product, and how can we use this data to convert more casual riders into annual members?
 
 Analyzed and visualized over 4.5 million points of data from Cyclistic, a bike-share company database using R and Tableau which led to a summer marketing campaign aimed to convert at least 10% of current casual riders into annual members.

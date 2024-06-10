@@ -14,7 +14,7 @@
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops including UberEats, Reebok, Best Buy and more to determine the most popular items in revenue and search results according to consumer trends
 - Crafted creative and accurate promotional content using data from the most popular items from each business combined with SEO strategies, increasing web traffic by up to 30%
-
+- Updated marketing promotional content daily to accurately current sales from vendors
 
 **Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**
 - Created simple home and landing pages for local small to medium sized businesses utilizing HTML, CSS, JavaScript

@@ -7,7 +7,8 @@
 
 
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
-- Conducted data analysis and quality validation of diverse data for major search engines (Bing, Google), enhancing user experience and search engine performance for millions of global users
+- Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, scientific, images, geographical and more
+- Processed final data for major search engines (Bing, Google), enhancing user experience and search engine performance for millions of global users
 - Executed research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
   
 

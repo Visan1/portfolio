@@ -5,9 +5,9 @@
 
 ## **Work Experience**
 **Data Annotator at Data Annotation Tech**
-- Improved Large Language Models (LLM) Generative AI Algorithms by labeling, categorizing, tagging data and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
+- Improved Large Language Models (LLM) by labeling, categorizing, tagging data and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
 - Developed and evaluated diverse AI chatbot conversations across various industry domains & different types of data 
-- Crafted and fact-checked high-quality prompts & responses to specific prompts, contributing to a contextually accurate AI conversational database, while comparing and providing feedback on different AI models
+- Crafted and fact-checked high-quality prompts & responses to specific prompts, contributing to a contextually accurate AI conversational database, while comparing and providing feedback on different Generative AI models
 - Managed flexible project schedules while delivering consistent high-quality and high-volume work
 
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**

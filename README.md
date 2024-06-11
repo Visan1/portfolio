@@ -4,7 +4,10 @@
 
 
 ## **Work Experience**
-**AI Data Specialist Freelancer at Data Annotation Tech**
+**Data Annotator at Data Annotation Tech**
+- Developed and evaluated diverse AI chatbot conversations across various topics, including text, images, maps, and other data types, focusing on large language models (LLM) and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
+- Crafted and fact-checked high-quality prompts & responses to specific prompts, contributing to a contextually accurate AI conversational database, while comparing and providing feedback on different AI models
+- Managed flexible project schedules while delivering consistent high-quality and high-volume work
 
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
 - Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, scientific, images, geographical and more

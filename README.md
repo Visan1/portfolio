@@ -4,7 +4,7 @@
 
 
 ## **Work Experience**
-**AI Data Specialist at Data 
+**AI Data Specialist Freelancer at Data Annotation Tech**
 
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
 - Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, scientific, images, geographical and more

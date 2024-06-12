@@ -10,6 +10,7 @@
 - Crafted and fact-checked high-quality prompts & responses to specific prompts, contributing to a contextually accurate AI conversational database, while comparing and providing feedback on different Generative AI models
 - Managed flexible project schedules while delivering consistent high-quality and high-volume work
 
+
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
 - Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, scientific, images, geographical and more
 - Processed final data for major search engines (Bing, Google), enhancing user experience and search engine performance for millions of global users

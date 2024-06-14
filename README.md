@@ -45,7 +45,7 @@
 
 Analyzed and visualized over 4.5 million points of data from Cyclistic, a bike-share company database using R and Tableau which led to a summer marketing campaign aimed to convert at least 10% of current casual riders into annual members.
 
-![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.PNG)
+![Tableau Image](/assets/Bike%20Share%20Tableau%20Image.png)
 
 The full visualization and presentation was done on Tableau and can be viewed [here.](https://public.tableau.com/app/profile/visan2980/viz/DataAnalyticsProjectDashboard/Story1#1)
 
@@ -54,7 +54,7 @@ The full visualization and presentation was done on Tableau and can be viewed [h
 
 Analyzed an Excel dataset from a Telecom company and visualized in PowerBI to determine the main factors for customers leaving. Dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 
-![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.PNG)
+![Customer Churn Dashboard](/assets/Churning%20Customers%20Analysis%20Dashboard.png)
 
 
 ### Optimizing Sports Apparel Revenue (SQL, PowerBI)
@@ -62,7 +62,7 @@ Analyzed an Excel dataset from a Telecom company and visualized in PowerBI to de
 
 Analyzed the database of a sports clothing company and viewed the pricing, reviews, descriptions, rating and web traffic for Nike and Adidas products using SQL to manipulate and clean data. The data was then analyzed to provide recommendations for marketing and sales teams to increase sales. 
 
-![Sports Apparel Revenue Dashboard](/assets/SportsApparelRevenue.PNG)
+![Sports Apparel Revenue Dashboard](/assets/SportsApparelRevenue.png)
 
 ### Games of the Years (SQL, PowerBI)
 

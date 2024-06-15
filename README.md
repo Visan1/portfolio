@@ -13,8 +13,8 @@
 
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
 - Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, scientific, images, geographical and more
-- Processed final data for major search engines (Bing, Google), enhancing user experience and search engine performance for millions of global users
-- Executed research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
+- Processed final data for major search engines (Bing, Google), enhancing user experience and search engine performance
+- Carried research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
 
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
@@ -25,8 +25,8 @@
 
 **Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**
 - Created simple home and landing pages for local small to medium sized businesses utilizing HTML, CSS, JavaScript
--	Collaborated with a team of developers to build modern and responsive web applications as well as contributing to open source projects
-- Built semantically structured full stack web applications using MongoDB, Express, React and Node.js
+-	Collaborated with a team of developers to build modern and responsive web applications
+- Built semantically structured full stack web applications using MERN stack
 -	Applied agile methodologies such as SCRUM for project management
   
 

@@ -4,7 +4,7 @@
 
 
 ## **Work Experience**
-**Data Annotator at Data Annotation Tech (_January -)**
+**Data Annotator at Data Annotation Tech (_January - P)**
 - Improved Large Language Models (LLM) by labeling, categorizing, tagging data and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
 - Developed and evaluated diverse AI chatbot conversations across various industry domains & different types of data 
 - Crafted and fact-checked high quality prompts & responses to specific prompts, contributing to a conversational database and comparing and providing feedback on different Generative AI models
@@ -31,7 +31,7 @@
   
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
-- Reduced tasks from 1.5 hours to 20 minutes through data driven decision making, resulting in an improvement in efficiency by over 75% and saving over $10,000 in weekly expenses
+- Reduced task length from 1.5 hours to 20 minutes through data driven decision making, an improvement in efficiency by over 75% and saving over $10,000 in weekly expenses
 - Advanced to Team Lead technician within one year, supervised over 6+ machine production lines daily and trained new and current employees on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel to create reports for internal teams and to update specifications for products
 - Verified analytical results to approve production of $1 million per month in-process and finshed products including dressings, sauces, salt, sugar

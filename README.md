@@ -48,6 +48,7 @@ Analyzed and visualized over 4.5 million points of data from Cyclistic, a bike-s
 ![Tableau Image](/assets/BikeShareTableauImage.PNG)
 
 The full visualization and presentation was done on Tableau and can be viewed [here.](https://public.tableau.com/app/profile/visan2980/viz/DataAnalyticsProjectDashboard/Story1#1)
+More about the project can be viewed [here.](https://github.com/Visan1/Data-Analytics-Project)
 
 ### Customer Churn Analysis Dashboard (Excel, PowerBI)
 #### Question to Answer: What are the main factors that customers cite as the reasons they leave the business?

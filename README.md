@@ -12,7 +12,7 @@
 
 
 **Data Analyst Contractor at Telus International AI (_July 2023 - Present_)**
-- Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, scientific, images, geographical and more
+- Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, STEM, images, geographical and more
 - Processed final data for major search engines (Bing, Google), enhancing user experience and search engine performance
 - Carried research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
 

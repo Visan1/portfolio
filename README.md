@@ -11,7 +11,7 @@
 - Managed flexible project schedules while delivering consistent high-quality and high-volume work in a remote setting
 
 
-**Data Analyst Freelancer at Telus International AI (_July 2023 - )**
+**Data Analyst Freelancer at Telus International AI (_July 2023 - _J)**
 - Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, STEM, images, geographical and more
 - Processed final data for major search engines (Bing, Google), enhancing user experience and search engine performance
 - Carried research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring heightened user satisfaction and improved functionality
@@ -19,7 +19,7 @@
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops including UberEats, Reebok, Best Buy and more to determine the most popular items in revenue and search results according to consumer trends
-- Crafted creative and accurate promotional content using data from the most popular items from each business combined with SEO strategies, increasing web traffic by up to 30%
+- Crafted creative and accurate promotional content using data of the most popular items from each business combined with SEO strategies, increasing web traffic by up to 30%
 - Updated existing marketing promotional content daily to accurately align with current sales from vendors
 
 

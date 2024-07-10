@@ -20,7 +20,7 @@
 **Data Analyst Freelancer at Telus International AI (_July 2023 - July 2024_)**
 - Conducted data analysis, cleaning, and accuracy validation of diverse data ranging from financial, STEM, images, geographical and more
 - Processed final data for use in major search engines (Bing, Google), enhancing user experience and search engine performance
-- Carried research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring user satisfaction and improved functionality
+- Carried out research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring user satisfaction and improved functionality
 
 
 **Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**

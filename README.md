@@ -7,7 +7,7 @@
 **Data Annotator at Data Annotation Tech (_January 2024 - Present_)**
 - Improved Large Language Models (LLM) by labeling, categorizing data and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
 - Developed and evaluated diverse AI chatbot conversations across various industry domains & different types of data 
-- Crafted and fact-checked high quality prompts & responses to specific prompts, contributing to a conversational database and comparing and providing feedback on different Generative AI models
+- Crafted and fact-checked high quality prompts & responses to specific prompts, contributing to a conversational database as well as comparing and providing feedback on different Generative AI models
 - Managed flexible project schedules while delivering consistent high-quality and high-volume work in a remote setting
 
 

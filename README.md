@@ -24,7 +24,7 @@
 
 
 **Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**
-- Created simple home pages for local small to medium sized businesses utilizing HTML, CSS, JavaScript
+- Created simple home pages for local small to medium sized businesses utilizing HTML, CSS, and JavaScript
 -	Collaborated with a team of developers to build modern and responsive web applications
 - Built semantically structured full stack web applications
 -	Applied agile methodologies such as SCRUM for project management

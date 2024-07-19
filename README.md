@@ -14,7 +14,7 @@
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
 - Conducted market research on E-commerce shops including UberEats, Adidas, Best Buy and more to determine the most popular items in revenue and search results according to consumer trends in the Canadian market
 - Crafted creative promotional content using data of the most popular items from each business combined with SEO strategies, increasing web traffic by up to 30%
-- Updated existing marketing promotional content daily to accurately align with current sales from vendors
+- Updated existing marketing promotional content to align with current sales from vendors
 
 
 **Data Analyst Freelancer at Telus International AI (_July 2023 - July 2024_)**

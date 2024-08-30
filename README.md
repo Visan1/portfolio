@@ -6,7 +6,7 @@
 ## **Work Experience**
 **Data Annotator at Data Annotation Tech (_January 2024 - Present_)**
 - Improved Large Language Models (LLMs) by labeling, categorizing data and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
-- Developed and evaluated diverse AI chatbot conversations across various industry domains & different types of data 
+- Developed and evaluated diverse AI chatbot conversations across various industry domains & different types of data
 - Crafted and fact-checked high quality prompts & responses to specific prompts, contributing to a conversational database as well as comparing and providing feedback on different Generative AI models
 - Managed flexible project schedules while delivering consistent high-quality and high-volume work in a remote setting
 
@@ -24,7 +24,7 @@
 
 
 **Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**
-- Created simple home pages for local small and medium sized businesses utilizing HTML, CSS, and JavaScript
+- Created simple home pages for local small and medium sized businesses utilizing JavaScript, HTML, CSS
 -	Collaborated with a team of developers to build modern and responsive web applications
 - Built semantically structured full stack web applications
 -	Applied agile methodologies such as SCRUM for project management

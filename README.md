@@ -16,6 +16,7 @@
 - Created promotional content using data of the most popular items from each company combined with SEO strategies to improve click-through rate, leading to an increase in web traffic by up to 30%
 - Updated marketing promotional content daily to align with current sales from business partners
 
+
 **Data Analyst Freelancer at Telus International AI (_July 2023 - July 2024_)**
 - Conducted data analysis, data cleaning, and data validation on diverse data ranging from financial, STEM, geographical and more
 - Processed final data for use in major search engines (Bing, Google, Yahoo) to enhance user experiences and improve search engine performance

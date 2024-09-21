@@ -35,7 +35,7 @@
 - Advanced to Team Lead technician within one year, supervised over 6+ machine production lines daily and trained teams on new safety protocols and policies
 - Collected, cleaned, analyzed, and visualized data using Microsoft Excel and created reports for internal teams and to update specifications for products
 - Verified analytical results to approve production of $1 million per month in-process and finished products including dressings, sauces, salt, sugar
-- Worked with R&D and Sales department on new product formulations for companies such as Sysco, McDonalds, Subway, GFS
+- Worked with R&D and Sales department on over 7 new product formulations for companies such as Sysco, McDonalds, Subway, GFS
   
 
 

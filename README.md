@@ -12,7 +12,7 @@
 
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**
-- Conducted market research on popular companies including UberEats, Adidas, Best Buy and more to determine the most popular items in revenue and search results according to consumer trends in the Canadian market
+- Conducted market research on popular companies including UberEats, Adidas, Best Buy and more to determine the most popular items in profit and search results according to consumer trends in the Canadian market
 - Created promotional content using data of the most popular items from each company combined with SEO strategies to improve click-through rate, leading to an increase in web traffic by up to 30%
 - Updated marketing advertisement content daily to align with current sales from business partners
 

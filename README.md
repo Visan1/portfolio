@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analyst Portfolio (in progress)
 
 #### Technical Skills: SQL, PowerBI, Excel, Tableau, Python, JavaScript, R
 

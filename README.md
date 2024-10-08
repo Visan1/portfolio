@@ -4,7 +4,7 @@
 
 
 ## **Work Experience**
-**Data Annotator at Data Annotation Tech (_January 2024 - Present_)**
+**Data Analyst Freelancer at Data Annotation Tech (_January 2024 - Present_)**
 - Improved Large Language Models (LLMs) by labeling, categorizing data and utilizing reinforcement learning from human feedback (RLHF) to enhance AI performance and accuracy
 - Developed and evaluated diverse AI chatbot conversations over 5+ industry domains & 3+ different types of data utilizing Excel
 - Crafted and fact-checked over 500+ high quality prompts & responses, contributing to a conversational database as well as comparing and providing feedback on different Generative AI models

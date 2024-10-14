@@ -6,7 +6,7 @@
 ## **Work Experience**
 **Data Analyst Freelancer at Data Annotation Tech (_January 2024 - Present_)**
 - Cleaned, analyzed, and derived insights from large, diverse datasets including stock prices, grocery prices, and healthcare metrics using Excel.
-- Developed and evaluated diverse AI chatbot conversations over 5+ industry domains & 3+ different types of data utilizing Excel
+- Compared AI model analysis with human analysis, identifying workflow and accuracy errors leading to an improvement in AI model accuracy by 20%.
 - Crafted and fact-checked over 500+ high quality prompts & responses, contributing to a conversational database as well as comparing and providing feedback on different Generative AI models
 - Managed flexible project schedules while delivering consistent high-quality and high-volume work in a remote setting
 

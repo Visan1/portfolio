@@ -40,6 +40,12 @@
 
 
 ## **Data Analytics Projects**
+### Allocating Health Care Resources to COVID-19 zones in Alberta
+#### Question to Answer: What are the differences in the reported cases of COVID-19 for Edmonton, Calgary and other zones in Alberta and how can current resources be allocated to handle the spread of COVID-19 in each zone?
+
+
+
+
 ### Marketing Campaign Converting Casual Bike-Share Riders to Annual Bike-Share Members (R, Tableau)
 #### Question to Answer: What can we learn about how our users utilize our product, and how can we use this data to convert more casual riders into annual members?
 

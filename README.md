@@ -19,7 +19,7 @@
 
 **Data Analyst Freelancer at Telus International AI (_July 2023 - July 2024_)**
 - Conducted data analysis, data cleaning, and data validation on diverse data ranging from financial, STEM, geographical, etc. 
-- Processed final data for use in major search engines (Bing, Google, Yahoo) to positively impact user experiences and improve search engine performance
+- Processed final data for use in major search engines (Bing, Google, Yahoo) to improve user experiences and search engine performance
 - Carried out research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring user satisfaction and improved functionality
 
 

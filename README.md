@@ -41,7 +41,7 @@
 
 ## **Data Analytics Projects**
 ### Navigating the COVID-19 Crisis in Alberta: Data Insights for Healthcare Resource Allocation
-#### Question to Answer: What are the differences in the reported cases of COVID-19 for Edmonton, Calgary and other zones in Alberta and how can current resources be allocated to handle the spread of COVID-19 in each zone?
+#### Question to Answer: What are the differences in the reported cases of COVID-19 for Edmonton, Calgary and other zones in Alberta and how can current resources be distributed to handle the spread of COVID-19 in each zone?
 
 
 

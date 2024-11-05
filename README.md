@@ -45,6 +45,12 @@
 ### Key Insights:
 Images:
 
+![Total COVID 19 Cases for each Alberta Zone through March 2020 to July 2022](/assets/CasesByZones.PNG)
+
+
+
+![Number of COVID 19 Cases in each age group from March 2020 to July 2022](/assets/CasesByAgeGroup.PNG)
+
 
 
 ### Marketing Campaign Converting Casual Bike-Share Riders to Annual Bike-Share Members (R, Tableau)

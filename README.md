@@ -45,11 +45,11 @@
 ### Key Insights:
 Images:
 
-![Total COVID 19 Cases for each Alberta Zone through March 2020 to July 2022](/assets/CasesByZones.PNG)
+![Total COVID 19 Cases for each Alberta Zone through March 2020 to July 2022](/assets/CasesByZones.png)
 
 
 
-![Number of COVID 19 Cases in each age group from March 2020 to July 2022](/assets/CasesByAgeGroup.PNG)
+![Number of COVID 19 Cases in each age group from March 2020 to July 2022](/assets/CasesByAgeGroup.png)
 
 
 

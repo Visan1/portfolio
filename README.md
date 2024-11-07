@@ -4,7 +4,7 @@
 
 
 ## **Work Experience**
-**Data Analyst Freelancer at Data Annotation Tech (_January 2024 - Present_)**
+**Data Analyst at Data Annotation Tech (_January 2024 - Present_)**
 - Cleaned, analyzed, and derived insights from large diverse datasets including stock prices, grocery prices, and healthcare metrics using Excel.
 - Compared AI model analysis with human analysis, identifying workflow and accuracy errors leading to an improvement in AI model accuracy by up to 20%.
 - Delivered reports on AI model performance ensuring proper data cleaning, analysis, graph visualization and insight generation for business datasets.
@@ -17,7 +17,7 @@
 - Improved click-through rates by researching effective promotional SEO keywords and reduced pricing errors by 40% through data validation.
 
 
-**Data Analyst Freelancer at Telus International AI (_July 2023 - July 2024_)**
+**Data Analyst at Telus International AI (_July 2023 - July 2024_)**
 - Conducted data analysis, data cleaning, and data validation on diverse data ranging from financial, STEM, geographical, and more. 
 - Processed final data for use in major search engines (Bing, Google, Yahoo) to improve user experiences and search engine performance.
 - Carried out research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring user satisfaction and improved functionality.

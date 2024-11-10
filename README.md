@@ -34,6 +34,7 @@
 - Utilized data analysis and visualization tools (Excel) to streamline quality assurance tasks, reducing analysis time from 1.5 hours to 20 minutes, resulting in weekly cost savings of $10,000.
 - Managed large datasets of quality control data points, identifying trends and flagging production issues in real time.
 - Enabled senior leadership to make data-driven decisions through detailed reports and visualizations, showcasing key metrics such as production efficiency, waste reduction, and product defect and hold rates.
+- Ensured data accuracy by verifying analytical results using ERP systems (Macola, J.D. Edwards), approving $1 million worth of in-process and finished products monthly.
 - Worked with R&D and Sales department on over 7 new product formulations for companies such as Sysco, McDonalds, Subway, GFS
   
 

@@ -33,7 +33,7 @@
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Utilized data analysis and visualization tools (Excel) to streamline quality assurance tasks, reducing analysis time from 1.5 hours to 20 minutes, resulting in weekly cost savings of $10,000.
 - Managed large datasets of quality control data points, identifying trends and flagging production issues in real time.
-
+- Enabled senior leadership to make data-driven decisions through detailed reports and visualizations, showcasing key metrics such as production efficiency, waste reduction, and product defect and hold rates.
 - Worked with R&D and Sales department on over 7 new product formulations for companies such as Sysco, McDonalds, Subway, GFS
   
 

@@ -32,9 +32,10 @@
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
 - Utilized data analysis and visualization tools (Excel) to streamline quality assurance tasks, reducing analysis time from 1.5 hours to 20 minutes, resulting in weekly cost savings of $10,000.
-- Advanced to Team Lead technician within one year, supervised over 6+ machine production lines daily and trained internal teams on new safety protocols and policies
-- Collected, cleaned, analyzed, and visualized data using Microsoft Excel and created reports for internal teams and to update specifications for products
-- Verified analytical results to approve production of $1 million per month in-process and finished products including dressings, sauces, salt, sugar
+- Managed large datasets of quality control data points, identifying trends and flagging production issues in real time.
+- Enabled senior leadership to make data-driven decisions through detailed reports and visualizations, showcasing key metrics such as production efficiency, waste reduction, and product defect and hold rates.
+- Ensured data accuracy by verifying analytical results using ERP systems (Macola, J.D. Edwards), approving $1 million worth of in-process and finished products monthly.
+- Advanced to Team Lead technician within 1 year with a team of 5 collecting, cleaning, and analyzing production data from 6 production lines to optimize workflow efficiency and ensure product quality compliance.
 - Worked with R&D and Sales department on over 7 new product formulations for companies such as Sysco, McDonalds, Subway, GFS
   
 

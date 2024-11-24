@@ -90,7 +90,7 @@ Analyzed the database of a sports clothing company and compared the pricing, rev
 ### Games of the Years (SQL, PowerBI)
 #### Question to Answer:
 
-Dataset from over 13,000 different games analyzed using SQL to find out which year of gaming had the best critic scores, user rankings, number of sales and more to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
+Dataset from over 13,000 different games analyzed using SQL to find out which year of gaming had the best critic scores, user rankings, number of sales and so on to determine if games have improved over the past couple of decades and which year did people consider to be the best year in gaming.
 
 IMAGES:
 

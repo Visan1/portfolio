@@ -52,6 +52,8 @@
 -	**Rapid Rate of Change:** Significant fluctuations in case numbers, particularly in the fall and winter months, highlight the need for a flexible approach to resource allocation.
 -	**Older Population Disparity:** There is a notable increase in the reported cases for females aged 80 and above, indicating a potential trend in this demographic.
 
+### Re
+
 **Images:**
 
 ![Total COVID 19 Cases for each Alberta Zone through March 2020 to July 2022](/assets/CasesByZones.png)

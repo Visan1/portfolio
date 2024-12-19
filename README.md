@@ -23,7 +23,7 @@
 - Carried out research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring user satisfaction and improved functionality.
 
 
-**Software Developer Freelancer at 100Devs (_January 2022 — December 2022_)**
+**Software Developer Freelancer at 100Devs (_January 2022 - December 2022_)**
 - Created 3+ simple home pages for local small and medium sized businesses utilizing JavaScript.
 -	Collaborated with a team of developers to build modern and responsive web applications using MERN stack.
 - Built semantically structured full stack web applications tailored to education & the culinary industry.

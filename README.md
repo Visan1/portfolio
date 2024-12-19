@@ -17,13 +17,13 @@
 - Improved click-through rates by researching effective promotional SEO keywords and reduced pricing errors of on-going promotions by 40% through data validation and data entry.
 
 
-**Data Analyst at Telus International AI (_July 2023 - July 2024_)**
+**Data Analyst at Telus International AI (_July 2022 - July 2023_)**
 - Conducted data analysis, data cleaning, and data validation on diverse data ranging from financial, STEM, geographical, and more. 
 - Processed final data for use in major search engines (Bing, Google, Yahoo) to improve user experiences and search engine performance.
 - Carried out research initiatives and quality assessments to optimize AI and search engine machine learning models, ensuring user satisfaction and improved functionality.
 
 
-**Software Developer Freelancer at 100Devs (_January 2022 — June 2023_)**
+**Software Developer Freelancer at 100Devs (_January 2022 — December 2022_)**
 - Created 3+ simple home pages for local small and medium sized businesses utilizing JavaScript.
 -	Collaborated with a team of developers to build modern and responsive web applications using MERN stack.
 - Built semantically structured full stack web applications tailored to education & the culinary industry.

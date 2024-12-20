@@ -49,7 +49,7 @@
 -	**Demographic Focus:** The most affected age groups are 30-39, 20-29, and 40-49 years. Additionally, in 2022, reported cases among females surpassed those of males by about 30,000.
 -	**Seasonal Trends:** Spikes in cases are observed from October to January and again from March to April, correlating with holiday gatherings and seasonal changes.
 -	**Probable vs. Confirmed Cases:** Only 0.80% of cases are classified as “probable,” emphasizing the need to focus on confirmed cases for accurate reporting and resource allocation.
--	**Rapid Rate of Change:** Significant fluctuations in case numbers, particularly in the fall and winter months, highlight the need for a flexible approach to resource allocation.
+-	**Rapid Rate of Change:** Significant fluctuations in case numbers, particularly in the fall and winter months, highlights the need for a flexible approach to resource allocation.
 -	**Older Population Disparity:** There is a notable increase in the reported cases for females aged 80 and above, indicating a potential trend in cases for this demographic.
 
 ### Re

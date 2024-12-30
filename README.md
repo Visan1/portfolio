@@ -34,7 +34,7 @@
 - Utilized data analysis and visualization tools (Excel) to streamline quality assurance tasks, reducing analysis time from 1.5 hours to 20 minutes which resulted in weekly cost savings of $10,000.
 - Managed large datasets of quality control data points, identifying trends and flagging production issues in real time.
 - Enabled senior leadership to make data-driven decisions through detailed reports and visualizations, showcasing key metrics such as production efficiency, waste reduction, product defect and hold rates.
-- Ensured data accuracy by verifying analytical results using ERP systems (Macola, J.D. Edwards), approving $1 million worth of in-process and finished products monthly.
+- Ensured data accuracy by verifying analytical results using ERP systems (Macola, J.D. Edwards), approving $1 million of in-process and finished products monthly.
 - Advanced to Team Lead technician within 1 year, working with a team of 5 collecting, cleaning, and analyzing production data from 6 production lines to optimize workflow efficiency and ensure product quality compliance.
 - Worked with R&D and Sales department on over 7 new product formulations for companies such as Sysco, McDonalds, Subway, and GFS.
   

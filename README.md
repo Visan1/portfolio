@@ -56,7 +56,7 @@
 
 **Images:**
 
-![Total COVID 19 Cases for each Alberta Zone through March 2020 to July 2022](/assets/CasesByZones.png)
+![Total COVID 19 Cases for each Alberta Zone from March 2020 to July 2022](/assets/CasesByZones.png)
 
 
 

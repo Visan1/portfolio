@@ -31,7 +31,7 @@
   
 
 **Quality Assurance Technician at Ventura Foods (_January 2020 - August 2021_)**
-- Utilized data analysis and visualization tools (Excel) to streamline quality assurance tasks, reducing analysis time from 1.5 hours to 20 minutes which resulted in weekly cost savings of $10,000.
+- Utilized data analysis and visualization tools (Excel, Power BI) to streamline quality assurance tasks, reducing analysis time from 1.5 hours to 20 minutes which resulted in weekly cost savings of $10,000.
 - Managed large datasets of quality control data points, identifying trends and flagging production issues in real time.
 - Enabled senior leadership to make data-driven decisions through detailed reports and visualizations, showcasing key metrics such as production efficiency, waste reduction, product defect and hold rates.
 - Ensured data accuracy by verifying analytical results using ERP systems (Macola, J.D. Edwards), approving $1 million of finished products monthly.

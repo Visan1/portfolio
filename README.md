@@ -75,7 +75,7 @@ Analyzed and visualized over 4.5 million data points from a bike-sharing company
 ![Tableau Image](/assets/BikeShareTableauImage.PNG)
 
 The full visualization and presentation was done on Tableau and can be viewed [here.](https://public.tableau.com/app/profile/visan2980/viz/DataAnalyticsProjectDashboard/Story1#1)
-Details about the project can be viewed [here.](https://github.com/Visan1/Data-Analytics-Project)
+Details about the project and how the analysis was broken down can be viewed [here.](https://github.com/Visan1/Data-Analytics-Project)
 
 ### Customer Churn Analysis Dashboard (Excel, PowerBI)
 #### Question to Answer: What are the main factors that customers state as the reasons they leave the business?

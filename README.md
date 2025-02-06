@@ -78,9 +78,9 @@ The full visualization and presentation was done on Tableau and can be viewed [h
 Details about the project and how the analysis was broken down can be viewed [here.](https://github.com/Visan1/Data-Analytics-Project)
 
 ### Customer Churn Analysis Dashboard (Excel, PowerBI)
-#### Question to Answer: What are the main factors that customers state as the reasons they leave the business?
+#### Question to Answer: What are the key factors that customers state as the reasons they leave the business?
 
-Analyzed an Excel dataset from a Telecom company and visualized the data in PowerBI to determine the main factors for customers leaving. The dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
+Analyzed an Excel dataset from a Telecom company and visualized the data in PowerBI to determine the key factors for customers leaving. The dashboard showcases the current rate of customers leaving (churn rate) and what the reasons were in terms of competition, pricing, network reliability and more. 
 
 ![Customer Churn Dashboard](/assets/ChurningCustomersAnalysisDashboard.PNG)
 

@@ -46,7 +46,7 @@
 
 ### Key Insights:
 -	**High Case Concentration Zones:** Calgary and Edmonton zones combined account for approximately 73% of total confirmed COVID-19 cases.
--	**Demographic Focus:** The most affected age groups are 30-39, 20-29, and 40-49 years old. Additionally, in 2022, reported cases among females surpassed those of males by approximately 30,000.
+-	**Demographics Most Affected:** The most affected age groups are 30-39, 20-29, and 40-49 years old. Additionally, in 2022, reported cases among females surpassed those of males by approximately 30,000.
 -	**Seasonal Trends:** Spikes in cases are observed from October to January and again from March to April, correlating with holiday gatherings and seasonal changes.
 -	**Probable and Confirmed Cases:** Only 0.80% of cases are classified as “probable,” emphasizing the need to focus on confirmed cases for accurate reporting and resource allocation.
 -	**Rapid Rate of Change:** Significant fluctuations in case numbers, particularly in the fall and winter months, highlights the need for a flexible approach to resource allocation.

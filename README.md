@@ -26,7 +26,7 @@
 **Software Developer Freelancer at 100Devs (_January 2022 - December 2022_)**
 - Created 3+ simple home pages for local small and medium sized businesses utilizing JavaScript.
 -	Collaborated with a team of developers to build modern and responsive web applications utilizing MERN stack.
-- Built semantically structured full stack web applications tailored to education & the culinary industry.
+- Built semantically structured full stack web applications tailored to education & the food industry.
 -	Applied agile methodologies such as SCRUM for project management.
   
 

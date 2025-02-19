@@ -8,7 +8,7 @@
 - Cleaned, analyzed, and derived insights from large diverse datasets including stock prices, grocery prices, and healthcare metrics using Excel.
 - Compared AI model analysis with human analysis, annotating workflow and accuracy errors leading to an improvement in AI model accuracy by up to 20%.
 - Delivered reports on AI model performance ensuring proper data cleaning, analysis, graph visualization and insight generation for business datasets.
-- Applied RLHF techniques on over 500+ AI model responses handling key metrics of financial, retail and healthcare data, leading to an improvement up to 50% in data processing efficiency.
+- Applied RLHF techniques on over 500+ AI model responses involving key metrics of financial, retail and healthcare data, leading to an improvement up to 50% in data processing efficiency.
 
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - Present_)**

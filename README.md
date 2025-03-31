@@ -89,7 +89,7 @@ Analyzed an Excel dataset from a Telecom company and visualized the data in Powe
 ### Optimizing Sports Apparel Revenue (SQL, PowerBI)
 #### Question to Answer: What insights can we draw from Nike and Adidas products data to determine effective marketing strategies that will lead to an increase in sales for the company?
 
-Analyzed the database of a sports clothing company to compare the pricing, reviews, descriptions, ratings and web traffic for Nike and Adidas products using SQL to manipulate and clean data. An ad-hoc report was generated to provide actionable recommendations for marketing and sales teams to increase sales. 
+Analyzed the database of a sports clothing company to compare the pricing, review scores, descriptions, ratings and web traffic for Nike and Adidas products using SQL to manipulate and clean data. An ad-hoc report was generated to provide actionable recommendations for marketing and sales teams to increase sales. 
 
 ![Sports Apparel Revenue Dashboard](/assets/SportsApparelRevenue.PNG)
 

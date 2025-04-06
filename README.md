@@ -35,7 +35,7 @@
 - Managed large datasets of quality control data points, identifying data trends and flagging production issues in real time.
 - Enabled senior leadership to make data-driven decision making through detailed reports and visualizations, showcasing key metrics such as production efficiency, waste reduction, product defect and hold rates.
 - Ensured data accuracy by verifying analytical results using ERP systems (Macola, J.D. Edwards), approving approximately $1 million of finished products monthly.
-- Advanced to Team Lead technician while working with a QA team of 5 collecting, cleaning, and analyzing production data from 6 production lines to optimize workflow efficiency and ensure product quality compliance.
+- Advanced to Team Lead technician while working with a QA team of 5 collecting, cleaning, and analyzing production data from over 6 production lines to optimize workflow efficiency and ensure product quality compliance.
 - Worked with R&D and Sales department on over 7 new product formulations for companies such as Sysco, McDonalds, Subway, and GFS.
   
 

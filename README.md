@@ -50,7 +50,7 @@
 -	**Seasonal Trends:** Spikes in cases are observed from October to January and again from March to April, correlating with holiday gatherings and seasonal changes.
 -	**Probable and Confirmed Cases:** Only 0.80% of cases are classified as “probable,” emphasizing the need to focus on confirmed cases for accurate reporting and resource allocation.
 -	**Rapid Rate of Change:** The significant fluctuations in case numbers, particularly in the fall and winter months, highlights the need for a flexible approach to resource allocation.
--	**Older Population Disparity:** There is a notable amount in the reported cases for females aged 80 and above, indicating a potential trend in cases for this demographic.
+-	**Older Population Disparity:** There is a notable amount in the number reported cases for females aged 80 and above, indicating a potential trend in cases for this demographic.
 
 ### Recommended Actions
 -

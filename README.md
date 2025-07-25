@@ -45,7 +45,7 @@
 #### Question to Answer: What are the differences in the reported cases of COVID-19 for Edmonton, Calgary and other major zones in Alberta and how can health care resources be distributed to more effectively tackle the situation of COVID-19 in each zone based on this analysis?
 
 ### Key Insights:
--	**High Case Concentration Zones:** The Calgary and Edmonton zones combined accounted for approximately 73% of total confirmed COVID-19 cases.
+-	**High Case Concentration Zones:** The Calgary and Edmonton zones combined accounted for approximately 73% of the total confirmed COVID-19 cases.
 -	**Demographics Most Affected:** The age groups mostly affected are 30-39, 20-29, and 40-49 years old age groups. Additionally, in 2022, reported cases among females surpassed those of males by approximately 30,000.
 -	**Seasonal Trends:** Spikes in cases are observed from October to January and again from March to April, correlating with holiday gatherings and seasonal changes.
 -	**Probable and Confirmed Cases:** Only 0.80% of cases are classified as “probable,” emphasizing the need to focus on confirmed cases for accurate reporting and resource allocation.

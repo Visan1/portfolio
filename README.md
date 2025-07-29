@@ -18,7 +18,7 @@
 
 
 **Data Analyst at Telus International AI (_July 2022 - July 2023_)**
-- Carried out data analysis, data cleaning, and data validation on diverse sets of data that ranged between financial, sciences, geographical and health care industries. 
+- Carried out data analysis, data cleaning, and data validation on diverse sets of data ranging between financial, sciences, geographical and health care industries. 
 - Cleaned and labeled raw data for use in major search engines (Bing, Google, etc.) to improve user experiences and performance.
 - Fulfilled research initiatives and quality assessments to optimize the performance of search engine machine learning models, improving user satisfaction and improved functionality.
 

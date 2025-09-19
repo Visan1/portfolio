@@ -12,7 +12,7 @@
 
 
 **Marketing Analyst & Data Entry Contractor at Upfeat Media (_June 2023 - April 2025_)**
-- Assessed e-commerce data from major businesses including UberEats, Reebok, Best Buy and more in the Canadian market, optimizing specific promotions based on relevant product trends and reducing campaign development time by up to 15%. 
+- Assessed e-commerce data from major businesses including UberEats, Reebok, Best Buy, etc. in the Canadian market, optimizing specific promotions based on relevant product trends and reducing campaign development time by up to 15%. 
 - Analyzed characteristics of best selling products to craft promotional content using SEO strategies, boosting web traffic by up to 30%.
 - Improved click-through rates by implementing effective SEO keywords into promotional coupons and reduced pricing errors of any ongoing promotions by up to 40% using data validation and data entry.
 

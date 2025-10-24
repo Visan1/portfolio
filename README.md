@@ -24,7 +24,7 @@
 
 
 **Software Developer Freelancer at 100Devs (_January 2022 - December 2022_)**
-- Crafted home and landing pages for local businesses using JavaScript, CSS, and HTML. 
+- Crafted home and landing pages for local businesses using JavaScript, CSS and HTML. 
 -	Collaborated with a team of software developers to build modern and responsive web applications using MERN stack.
 - Built a semantically structured full stack bakery timer web application tailored to the education and food industry.
 -	Applied agile methodologies such as SCRUM for project management.
